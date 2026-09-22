@@ -1,1 +1,6 @@
-# SC_302_Documentacion_KT_Pablo
+# SC\_302\_Documentacion\_KT\_Pablo
+
+
+
+Esta es mi primera práctica con GitHub.
+
